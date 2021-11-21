@@ -102,7 +102,7 @@ def SpeakAudio(Text):
 def SendEmail():
     Sender_Email = "neerajlubana805@gmail.com"
     Reciever_Email = "narinder3013.be20@chitkara.edu.in"
-    Password = "7889105535"
+    Password = "000000001"
 
     newMessage = EmailMessage()                         
     newMessage['Subject'] = "Emergency Message From Narinder" 
